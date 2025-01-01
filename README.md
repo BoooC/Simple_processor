@@ -6,7 +6,7 @@ This repository contains the final project based on the course "Computer Organiz
 
 ### Overview
 
-- **SP.v:** The Verilog code for a Simple Processor design, supporting a 5-stage pipeline, and tailored for the MIPS instruction set.
+- **SP.v:** The Verilog code for a Simple Processor design, tailored for the MIPS instruction set.
   
 - **MEM.v:** Responsible for controlling the access of input data.
   
